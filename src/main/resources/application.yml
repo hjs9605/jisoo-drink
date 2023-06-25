@@ -1,8 +1,2 @@
 server:
-  port : 8080
-
-spring:
-  profiles.active: dev
-#  web:
-#    resources:
-#      static-locations: classpath:/static, classpath:/frontend
+  port : 8082
